@@ -404,8 +404,8 @@
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Palestine_-_short_triangle.svg/1280px-Flag_of_Palestine_-_short_triangle.svg.png",
       "result": true,
       "semi": 2,
-      "puan1": 1,
-      "puan2": 2.1
+      "puan1": 10,
+      "puan2": 7.1
     },
     {
       "id": "38",
@@ -815,8 +815,8 @@
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Palestine_-_short_triangle.svg/1280px-Flag_of_Palestine_-_short_triangle.svg.png",
       "result": true,
       "semi": 2,
-      "puan1": 1.5,
-      "puan2": 1
+      "puan1": 2.5,
+      "puan2": 6
     },
     {
       "id": "17",
