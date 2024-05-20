@@ -177,8 +177,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 20,
-      "puan2": 25
+      "puan1": 5,
+      "puan2": 5
     },
     {
       "id": "16",
@@ -275,18 +275,6 @@
       "semi": 2,
       "puan1": 10,
       "puan2": 4.5
-    },
-    {
-      "id": "24",
-      "countryName": "Israel",
-      "singerName": "Pasha",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 2,
-      "puan1": 5,
-      "puan2": 2.4
     },
     {
       "id": "25",
@@ -723,19 +711,7 @@
       "semi": 2,
       "puan1": 4,
       "puan2": 1.5
-    },
-    {
-      "id": "3",
-      "countryName": "Israel",
-      "singerName": "Pasha",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 2,
-      "puan1": 4,
-      "puan2": 5.5
-    },
+    },az
     {
       "id": "4",
       "countryName": "Croatia",
