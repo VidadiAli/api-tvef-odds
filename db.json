@@ -277,6 +277,18 @@
       "puan2": 4.5
     },
     {
+      "id": "24",
+      "countryName": "Denmark",
+      "singerName": "Qurban",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 1.5,
+      "puan2": 4
+    },
+    {
       "id": "25",
       "countryName": "Croatia",
       "singerName": "Alirza",
@@ -467,18 +479,6 @@
       "semi": 2,
       "puan1": 6,
       "puan2": 1.7
-    },
-    {
-      "id": "41",
-      "countryName": "Denmark",
-      "singerName": "Qurban",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 2,
-      "puan1": 1.5,
-      "puan2": 4
     }
   ],
   "sf1": [
@@ -725,6 +725,18 @@
       "puan2": 1.5
     },
     {
+      "id": "3",
+      "countryName": "Denmark",
+      "singerName": "Qurban",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 1.3,
+      "puan2": 1.3
+    },
+    {
       "id": "4",
       "countryName": "Croatia",
       "singerName": "Alirza",
@@ -915,18 +927,6 @@
       "semi": 2,
       "puan1": 1.7,
       "puan2": 1.7
-    },
-    {
-      "id": "20",
-      "countryName": "Denmark",
-      "singerName": "Qurban",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 2,
-      "puan1": 1.3,
-      "puan2": 1.3
     }
   ]
 }
