@@ -127,7 +127,7 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/800px-Flag_of_Serbia.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
       "puan1": 50,
       "puan2": 100
@@ -177,8 +177,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 5,
-      "puan2": 5
+      "puan1": 3.5,
+      "puan2": 4
     },
     {
       "id": "16",
@@ -199,10 +199,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/640px-Flag_of_Canada_%28Pantone%29.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=rO7yorrmUVo",
       "semi": 1,
-      "puan1": 35,
-      "puan2": 75
+      "puan1": 20,
+      "puan2": 20
     },
     {
       "id": "18",
@@ -467,6 +467,18 @@
       "semi": 2,
       "puan1": 6,
       "puan2": 1.7
+    },
+    {
+      "id": "41",
+      "countryName": "Denmark",
+      "singerName": "Qurban",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 1.5,
+      "puan2": 4
     }
   ],
   "sf1": [
@@ -515,8 +527,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=fBv0mr7SWTs",
       "semi": 1,
-      "puan1": 5,
-      "puan2": 5
+      "puan1": 3,
+      "puan2": 3
     },
     {
       "id": "5",
@@ -528,7 +540,7 @@
       "youtubeLink": "",
       "semi": 1,
       "puan1": 1,
-      "puan2": 15
+      "puan2": 4
     },
     {
       "id": "6",
@@ -540,7 +552,7 @@
       "youtubeLink": "",
       "semi": 1,
       "puan1": 1.01,
-      "puan2": 1.07
+      "puan2": 1.01
     },
     {
       "id": "7",
@@ -588,7 +600,7 @@
       "youtubeLink": "",
       "semi": 1,
       "puan1": 8,
-      "puan2": 2
+      "puan2": 3
     },
     {
       "id": "11",
@@ -597,7 +609,7 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/800px-Flag_of_Serbia.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
       "puan1": 11,
       "puan2": 10
@@ -647,8 +659,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 4,
-      "puan2": 4
+      "puan1": 2,
+      "puan2": 2
     },
     {
       "id": "16",
@@ -669,10 +681,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/640px-Flag_of_Canada_%28Pantone%29.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=rO7yorrmUVo",
       "semi": 1,
-      "puan1": 8,
-      "puan2": 10
+      "puan1": 5,
+      "puan2": 3
     },
     {
       "id": "18",
@@ -781,7 +793,7 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 9,
+      "puan1": 5,
       "puan2": 2
     },
     {
@@ -903,6 +915,18 @@
       "semi": 2,
       "puan1": 1.7,
       "puan2": 1.7
+    },
+    {
+      "id": "20",
+      "countryName": "Denmark",
+      "singerName": "Qurban",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/188px-Flag_of_Denmark.svg.png",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 1.3,
+      "puan2": 1.3
     }
   ]
 }
