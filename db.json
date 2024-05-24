@@ -7,7 +7,7 @@
       "musicName": "Mama",
       "flag": "https://cdn.britannica.com/37/5137-050-627F0A5F/flag-West-Virginia-Louisiana-Purchase-Exposition-design-1929.jpg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=5wZVyxbG3Ic",
       "semi": 1,
       "puan1": 2,
       "puan2": 5
@@ -129,8 +129,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
-      "puan1": 50,
-      "puan2": 90
+      "puan1": 40,
+      "puan2": 15
     },
     {
       "id": "12",
@@ -177,8 +177,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 3,
-      "puan2": 8
+      "puan1": 2,
+      "puan2": 4
     },
     {
       "id": "16",
@@ -235,9 +235,9 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
       "result": true,
-      "youtubeLink": "https://www.youtube.com/watch?v=5ACtlJvEu5w",
+      "youtubeLink": "https://www.youtube.com/watch?v=amlxmIdti6g",
       "semi": 0,
-      "puan1": 6,
+      "puan1": 8,
       "puan2": 6
     },
     {
@@ -285,8 +285,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=Qpq7pYgWcxw",
       "semi": 2,
-      "puan1": 2,
-      "puan2": 6
+      "puan1": 6,
+      "puan2": 15
     },
     {
       "id": "25",
@@ -489,7 +489,7 @@
       "musicName": "Mama",
       "flag": "https://cdn.britannica.com/37/5137-050-627F0A5F/flag-West-Virginia-Louisiana-Purchase-Exposition-design-1929.jpg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=5wZVyxbG3Ic",
       "semi": 1,
       "puan1": 1,
       "puan2": 1.3
@@ -611,8 +611,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
-      "puan1": 11,
-      "puan2": 10
+      "puan1": 6,
+      "puan2": 4
     },
     {
       "id": "12",
@@ -659,7 +659,7 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 2,
+      "puan1": 1.3,
       "puan2": 2
     },
     {
@@ -733,8 +733,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=Qpq7pYgWcxw",
       "semi": 2,
-      "puan1": 1.3,
-      "puan2": 1.3
+      "puan1": 5,
+      "puan2": 7
     },
     {
       "id": "4",
