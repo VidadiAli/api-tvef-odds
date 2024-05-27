@@ -105,8 +105,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 50,
-      "puan2": 50
+      "puan1": 14,
+      "puan2": 13
     },
     {
       "id": "10",
@@ -211,10 +211,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=42kq8L7vIfk",
       "semi": 1,
-      "puan1": 60,
-      "puan2": 60
+      "puan1": 8,
+      "puan2": 7
     },
     {
       "id": "19",
@@ -286,7 +286,7 @@
       "youtubeLink": "https://www.youtube.com/watch?v=Qpq7pYgWcxw",
       "semi": 2,
       "puan1": 12,
-      "puan2": 20
+      "puan2": 12
     },
     {
       "id": "25",
@@ -339,7 +339,7 @@
     {
       "id": "29",
       "countryName": "Italy",
-      "singerName": "Ülko",
+      "singerName": "Lalə",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png",
       "result": true,
@@ -587,8 +587,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 4,
-      "puan2": 6
+      "puan1": 2,
+      "puan2": 2
     },
     {
       "id": "10",
@@ -611,8 +611,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
-      "puan1": 3,
-      "puan2": 3
+      "puan1": 1.9,
+      "puan2": 1.9
     },
     {
       "id": "12",
@@ -693,10 +693,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=42kq8L7vIfk",
       "semi": 1,
-      "puan1": 10,
-      "puan2": 10
+      "puan1": 1.5,
+      "puan2": 1.5
     }
   ],
   "sf2": [
@@ -733,8 +733,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=Qpq7pYgWcxw",
       "semi": 2,
-      "puan1": 8,
-      "puan2": 8
+      "puan1": 5,
+      "puan2": 5
     },
     {
       "id": "4",
@@ -787,7 +787,7 @@
     {
       "id": "8",
       "countryName": "Italy",
-      "singerName": "Ülko",
+      "singerName": "Lalə",
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png",
       "result": true,
