@@ -70,7 +70,7 @@
       "youtubeLink": "https://www.youtube.com/watch?v=dGQpgmywN0w",
       "semi": 1,
       "puan1": 1.01,
-      "puan2": 1.1
+      "puan2": 1.05
     },
     {
       "id": "7",
@@ -129,8 +129,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dW7OiF7UbKw",
       "semi": 1,
-      "puan1": 30,
-      "puan2": 10
+      "puan1": 13,
+      "puan2": 14
     },
     {
       "id": "12",
@@ -225,8 +225,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 0,
-      "puan1": 50,
-      "puan2": 8
+      "puan1": 23,
+      "puan2": 7
     },
     {
       "id": "20",
@@ -273,8 +273,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 15,
-      "puan2": 15
+      "puan1": 20,
+      "puan2": 20
     },
     {
       "id": "24",
@@ -345,8 +345,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 18,
-      "puan2": 20
+      "puan1": 25,
+      "puan2": 25
     },
     {
       "id": "30",
@@ -393,8 +393,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 10,
-      "puan2": 13
+      "puan1": 18,
+      "puan2": 18
     },
     {
       "id": "34",
@@ -439,10 +439,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Palestine_-_short_triangle.svg/1280px-Flag_of_Palestine_-_short_triangle.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=DI9NwG7qUTI",
       "semi": 2,
-      "puan1": 12,
-      "puan2": 30
+      "puan1": 15,
+      "puan2": 15
     },
     {
       "id": "38",
@@ -722,7 +722,7 @@
       "youtubeLink": "",
       "semi": 2,
       "puan1": 4,
-      "puan2": 1.5
+      "puan2": 3
     },
     {
       "id": "3",
@@ -733,8 +733,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=Qpq7pYgWcxw",
       "semi": 2,
-      "puan1": 5,
-      "puan2": 5
+      "puan1": 2.1,
+      "puan2": 2.4
     },
     {
       "id": "4",
@@ -804,8 +804,8 @@
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png",
       "result": true,
       "youtubeLink": "",
-      "semi": 2,
-      "puan1": 5,
+      "semi": 3,
+      "puan1": 4,
       "puan2": 2
     },
     {
@@ -887,10 +887,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Palestine_-_short_triangle.svg/1280px-Flag_of_Palestine_-_short_triangle.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=DI9NwG7qUTI",
       "semi": 2,
-      "puan1": 5.5,
-      "puan2": 6
+      "puan1": 2.5,
+      "puan2": 2.5
     },
     {
       "id": "17",
@@ -901,8 +901,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=7dHSlWVlQBU",
       "semi": 2,
-      "puan1": 5,
-      "puan2": 3
+      "puan1": 2,
+      "puan2": 2
     },
     {
       "id": "18",
@@ -913,7 +913,7 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 2,
+      "puan1": 2.8,
       "puan2": 3
     },
     {
