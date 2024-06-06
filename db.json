@@ -33,8 +33,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 80,
-      "puan2": 80
+      "puan1": 130,
+      "puan2": 180
     },
     {
       "id": "4",
@@ -45,8 +45,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=fBv0mr7SWTs",
       "semi": 1,
-      "puan1": 50,
-      "puan2": 70
+      "puan1": 175,
+      "puan2": 132
     },
     {
       "id": "5",
@@ -93,8 +93,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 120,
-      "puan2": 100
+      "puan1": 200,
+      "puan2": 140
     },
     {
       "id": "9",
@@ -117,8 +117,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 1,
-      "puan1": 40,
-      "puan2": 60
+      "puan1": 140,
+      "puan2": 130
     },
     {
       "id": "11",
@@ -131,18 +131,6 @@
       "semi": 1,
       "puan1": 13,
       "puan2": 11
-    },
-    {
-      "id": "12",
-      "countryName": "Scotland",
-      "singerName": "Milan",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/383px-Flag_of_Scotland.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 1,
-      "puan1": 40,
-      "puan2": 30
     },
     {
       "id": "13",
@@ -165,8 +153,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=8vJ1rwbQC70",
       "semi": 1,
-      "puan1": 60,
-      "puan2": 50
+      "puan1": 100,
+      "puan2": 180
     },
     {
       "id": "15",
@@ -201,7 +189,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=rO7yorrmUVo",
       "semi": 1,
-      "puan1": 1.8,
+      "puan1": 2.4,
       "puan2": 1.8
     },
     {
@@ -218,12 +206,12 @@
     },
     {
       "id": "19",
-      "countryName": "Russia",
+      "countryName": "Cyprus",
       "singerName": "T.I.ViAl",
       "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=5okSMwri4-k",
       "semi": 0,
       "puan1": 23,
       "puan2": 7
@@ -273,8 +261,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 20,
-      "puan2": 20
+      "puan1": 80,
+      "puan2": 60
     },
     {
       "id": "24",
@@ -309,8 +297,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 30,
-      "puan2": 25
+      "puan1": 60,
+      "puan2": 65
     },
     {
       "id": "27",
@@ -321,8 +309,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 30,
-      "puan2": 30
+      "puan1": 220,
+      "puan2": 100
     },
     {
       "id": "28",
@@ -369,8 +357,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 20,
-      "puan2": 20
+      "puan1": 120,
+      "puan2": 90
     },
     {
       "id": "33",
@@ -393,8 +381,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 11,
-      "puan2": 20
+      "puan1": 41,
+      "puan2": 30
     },
     {
       "id": "35",
@@ -405,8 +393,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 28,
-      "puan2": 30
+      "puan1": 128,
+      "puan2": 100
     },
     {
       "id": "36",
@@ -453,8 +441,8 @@
       "result": true,
       "youtubeLink": "",
       "semi": 2,
-      "puan1": 30,
-      "puan2": 30
+      "puan1": 130,
+      "puan2": 98
     },
     {
       "id": "40",
@@ -601,18 +589,6 @@
       "semi": 1,
       "puan1": 1.9,
       "puan2": 1.9
-    },
-    {
-      "id": "12",
-      "countryName": "Scotland",
-      "singerName": "Milan",
-      "musicName": "Mama",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/383px-Flag_of_Scotland.svg.png",
-      "result": true,
-      "youtubeLink": "",
-      "semi": 1,
-      "puan1": 4,
-      "puan2": 3
     },
     {
       "id": "13",
