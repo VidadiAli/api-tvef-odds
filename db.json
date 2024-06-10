@@ -395,6 +395,18 @@
       "semi": 2,
       "puan1": 15,
       "puan2": 10
+    },
+    {
+      "id": "47",
+      "countryName": "Germany",
+      "singerName": "Salima",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 24,
+      "puan2": 35
     }
   ],
   "sf1": [
@@ -577,6 +589,18 @@
       "semi": 2,
       "puan1": 2,
       "puan2": 2
+    },
+    {
+      "id": "37",
+      "countryName": "Germany",
+      "singerName": "Salima",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "result": true,
+      "youtubeLink": "",
+      "semi": 2,
+      "puan1": 4,
+      "puan2": 5
     }
   ],
   "sf2": [
