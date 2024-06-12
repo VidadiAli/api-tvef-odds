@@ -9,8 +9,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=5wZVyxbG3Ic",
       "semi": 1,
-      "puan1": 8.5,
-      "puan2": 8.3
+      "puan1": 6,
+      "puan2": 6
     },
     {
       "id": "2",
@@ -81,8 +81,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=ZpuIDkm5EKk",
       "semi": 1,
-      "puan1": 8.6,
-      "puan2": 8.1
+      "puan1": 3,
+      "puan2": 3
     },
     {
       "id": "8",
@@ -285,8 +285,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=BjE7Xn-J_vo",
       "semi": 2,
-      "puan1": 1,
-      "puan2": 1.1
+      "puan1": 2,
+      "puan2": 2
     },
     {
       "id": "29",
@@ -403,10 +403,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=mgO-MlreYqk",
       "semi": 2,
-      "puan1": 24,
-      "puan2": 35
+      "puan1": 13,
+      "puan2": 12
     }
   ],
   "sf1": [
@@ -597,10 +597,10 @@
       "musicName": "Mama",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=mgO-MlreYqk",
       "semi": 2,
-      "puan1": 4,
-      "puan2": 5
+      "puan1": 1.06,
+      "puan2": 1.06
     }
   ],
   "sf2": [
