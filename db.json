@@ -69,7 +69,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dGQpgmywN0w",
       "semi": 1,
-      "puan1": 3.5,
+      "puan1": 3,
       "puan2": 3.5
     },
     {
@@ -81,7 +81,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=ZpuIDkm5EKk",
       "semi": 1,
-      "puan1": 3,
+      "puan1": 3.6,
       "puan2": 3
     },
     {
@@ -189,7 +189,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=rO7yorrmUVo",
       "semi": 1,
-      "puan1": 4,
+      "puan1": 3,
       "puan2": 3.4
     },
     {
@@ -235,9 +235,9 @@
       "musicName": "Mama",
       "flag": "https://m.media-amazon.com/images/I/61ekcr30fgL._AC_UF894,1000_QL80_.jpg",
       "result": true,
-      "youtubeLink": "",
+      "youtubeLink": "https://www.youtube.com/watch?v=H76bGCWpRwE",
       "semi": 0,
-      "puan1": 35,
+      "puan1": 25,
       "puan2": 15
     },
     {
@@ -405,7 +405,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=mgO-MlreYqk",
       "semi": 2,
-      "puan1": 13,
+      "puan1": 10,
       "puan2": 12
     }
   ],
