@@ -601,6 +601,42 @@
       "semi": 2,
       "puan1": 1.06,
       "puan2": 1.06
+    },
+    {
+      "id": "59",
+      "countryName": "Cyprus",
+      "singerName": "T.I.ViAl",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png",
+      "result": -2,
+      "youtubeLink": "https://www.youtube.com/watch?v=5okSMwri4-k",
+      "semi": 0,
+      "puan1": 23,
+      "puan2": 7
+    },
+    {
+      "id": "69",
+      "countryName": "Australia",
+      "singerName": "Husso",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+      "result": -2,
+      "youtubeLink": "https://youtube.com/watch?v=MSsptaNaows",
+      "semi": 0,
+      "puan1": 6.7,
+      "puan2": 7
+    },
+    {
+      "id": "79",
+      "countryName": "World",
+      "singerName": "Tərlan",
+      "musicName": "Mama",
+      "flag": "https://m.media-amazon.com/images/I/61ekcr30fgL._AC_UF894,1000_QL80_.jpg",
+      "result": -2,
+      "youtubeLink": "https://www.youtube.com/watch?v=H76bGCWpRwE",
+      "semi": 0,
+      "puan1": 25,
+      "puan2": 15
     }
   ],
   "sf2": [
@@ -783,6 +819,42 @@
       "semi": 2,
       "puan1": 3.2,
       "puan2": 3
+    },
+    {
+      "id": "59",
+      "countryName": "Cyprus",
+      "singerName": "T.I.ViAl",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png",
+      "result": -2,
+      "youtubeLink": "https://www.youtube.com/watch?v=5okSMwri4-k",
+      "semi": 0,
+      "puan1": 23,
+      "puan2": 7
+    },
+    {
+      "id": "69",
+      "countryName": "Australia",
+      "singerName": "Husso",
+      "musicName": "Mama",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+      "result": -2,
+      "youtubeLink": "https://youtube.com/watch?v=MSsptaNaows",
+      "semi": 0,
+      "puan1": 6.7,
+      "puan2": 7
+    },
+    {
+      "id": "79",
+      "countryName": "World",
+      "singerName": "Tərlan",
+      "musicName": "Mama",
+      "flag": "https://m.media-amazon.com/images/I/61ekcr30fgL._AC_UF894,1000_QL80_.jpg",
+      "result": -2,
+      "youtubeLink": "https://www.youtube.com/watch?v=H76bGCWpRwE",
+      "semi": 0,
+      "puan1": 25,
+      "puan2": 15
     }
   ]
 }
