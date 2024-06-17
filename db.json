@@ -57,8 +57,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=1gHg-ebc4R0",
       "semi": 1,
-      "puan1": 7,
-      "puan2": 7
+      "puan1": 6,
+      "puan2": 6.2
     },
     {
       "id": "6",
@@ -69,8 +69,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=dGQpgmywN0w",
       "semi": 1,
-      "puan1": 6,
-      "puan2": 7
+      "puan1": 3.5,
+      "puan2": 3.5
     },
     {
       "id": "7",
@@ -105,7 +105,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=VW3ujGr5eRg",
       "semi": 1,
-      "puan1": 1,
+      "puan1": 1.2,
       "puan2": 1.1
     },
     {
@@ -358,7 +358,7 @@
       "youtubeLink": "https://www.youtube.com/watch?v=DI9NwG7qUTI",
       "semi": 2,
       "puan1": 15,
-      "puan2": 12
+      "puan2": 15
     },
     {
       "id": "38",
@@ -685,7 +685,7 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=1gHg-ebc4R0",
       "semi": 1,
-      "puan1": 1.2,
+      "puan1": 1,
       "puan2": 1.1
     },
     {
@@ -746,7 +746,7 @@
       "youtubeLink": "https://www.youtube.com/watch?v=d8aNspcF6UU",
       "semi": 2,
       "puan1": 1.15,
-      "puan2": 1.10
+      "puan2": 1.14
     },
     {
       "id": "11",
@@ -781,8 +781,8 @@
       "result": true,
       "youtubeLink": "https://www.youtube.com/watch?v=DI9NwG7qUTI",
       "semi": 2,
-      "puan1": 1.15,
-      "puan2": 1
+      "puan1": 1.1,
+      "puan2": 1.1
     },
     {
       "id": "17",
